@@ -1,0 +1,1 @@
+export{r as CanvasRenderer}from"./boot-DzT2nhgc.js";

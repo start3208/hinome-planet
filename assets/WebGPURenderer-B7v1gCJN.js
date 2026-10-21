@@ -1,1 +1,0 @@
-export{t as WebGPURenderer}from"./boot-Cy4Z4h0u.js";
