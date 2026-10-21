@@ -1,0 +1,1 @@
+export{r as CanvasRenderer}from"./boot-B0dEPkmQ.js";
