@@ -1,0 +1,1 @@
+export{t as WebGPURenderer}from"./boot-CNK6_RZh.js";
