@@ -1,1 +1,0 @@
-export{r as CanvasRenderer}from"./boot-CNK6_RZh.js";
